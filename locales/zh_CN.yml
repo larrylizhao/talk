@@ -1,47 +1,47 @@
 zh_CN:
-  your_account_has_been_suspended: Your account has been temporarily suspended.
-  your_account_has_been_banned: Your account has been banned.
-  your_username_has_been_rejected: Your account has been suspended because your username has been deemed inappropriate. To restore your account please enter a new username.
-  embed_comments_tab: "评论"
+  your_account_has_been_suspended: 您的账户已被暂停使用。
+  your_account_has_been_banned: 您的账户已被注销。
+  your_username_has_been_rejected: 您的帐户已被暂停使用，由于您的用户名不符合要求。 想要恢复您的帐户，请输入一个新的用户名。
+  embed_comments_tab: 评论
   bandialog:
-    are_you_sure: "Are you sure you would like to ban {0}?"
-    ban_user: "Ban User?"
-    banned_user: "Banned User"
+    are_you_sure: "你确定要屏蔽{0}吗？"
+    ban_user: "确定屏蔽该用户？"
+    banned_user: "该用户已被屏蔽"
     cancel: "取消"
-    note: "Note: {0}"
-    note_reject_comment: "Banning this user will also place this comment in the Rejected queue."
-    note_ban_user: "Banning this user will not let them edit comment or remove anything."
-    yes_ban_user: "是的, 禁止该用户"
-  bio_offensive: "This bio is offensive"
+    note: "标注：{0}"
+    note_reject_comment: "屏蔽该用户及其评论"
+    note_ban_user: "禁止该用户编辑或删除评论"
+    yes_ban_user: "确定屏蔽该用户"
+  bio_offensive: "这一用户违规"
   cancel: "取消"
-  characters_remaining: "characters remaining"
+  characters_remaining: "剩余字符"
   comment:
-    anon: "匿名"
+    anon: "匿名用户"
     undo_reject: "撤销"
-    ban_user: "禁止用户"
+    ban_user: "屏蔽该用户"
     comment: "发表评论"
-    edited: "已编辑"
+    edited: 编辑
     flagged: "已标记"
-    view_context: "查看会话"
+    view_context: "查看全文"
   comment_box:
     post: "发布"
     cancel: "取消"
     reply: "回复"
     comment: "发表评论"
     name: "姓名"
-    comment_post_notif: "您的评论已发表"
-    comment_post_notif_premod: "Thank you for posting. Our moderation team will review your comment shortly."
-    comment_post_banned_word:  "Your comment contains one or more words that are not permitted, so it will not be published. If you think this message is incorrect, please contact our moderation team."
-    characters_remaining: "characters remaining"
-  comment_offensive: "该评论"
-  comment_singular: Comment
-  comment_plural: Comments
-  comment_post_banned_word: "Your comment contains one or more words that are not permitted, so it will not be published. If you think this message is incorrect, please contact our moderation team."
-  comment_post_notif: "您的评论已发布。"
-  comment_post_notif_premod: "Thank you for posting. Our moderation team will review your comment shortly."
+    comment_post_notif: "您的评论已发布"
+    comment_post_notif_premod: "感谢您的评论。我们的审核团队将尽快审核您的评论。"
+    comment_post_banned_word:  "由于您的评论包含至少一个禁用词语，评论发布失败。如对此有疑问，请联系我们的审核团队。"
+    characters_remaining: "剩余字符"
+  comment_offensive: "该评论包含侮辱性词语"
+  comment_singular: 评论
+  comment_plural: 评论流
+  comment_post_banned_word: "由于您的评论包含至少一个禁用词语，评论发布失败。如对此有疑问，请联系我们的审核团队。"
+  comment_post_notif: "您的评论已发布"
+  comment_post_notif_premod: "感谢您的评论。我们的审核团队将尽快审核您的评论。"
   common:
     copy: '复制'
-    error: '出错啦。'
+    error: '出错了'
     reply: '回复'
     replies: '回复'
     reaction: '回应'
@@ -49,350 +49,355 @@ zh_CN:
     story: '故事'
   community:
     account_creation_date: "账户创建日期"
-    active: Active
-    admin: Administrator
-    ads_marketing: "这看起来像是广告／宣传"
-    are_you_sure: "Are you sure you would like to ban {0}?"
-    ban_user: "Ban User?"
-    banned: Banned
-    banned_user: "Banned User"
-    cancel: "取消"
-    dont_like_username: "Dislike username"
-    flaggedaccounts: "Reported Usernames"
-    flags: Flags
-    impersonating: "Impersonation"
-    loading: "加载结果中"
-    moderator: Moderator
-    newsroom_role: "Newsroom Role"
-    no_flagged_accounts: "The Reported Usernames queue is currently empty."
-    no_results: "No users found with that user name or email address. They're hiding!"
-    offensive: "侵犯性"
-    other: Other
-    people: People
-    role: "选择角色..."
+    active: 活跃用户
+    admin: 管理员
+    ads_marketing: "看上去像广告/营销"
+    are_you_sure: "您确定您要屏蔽{0}？"
+    ban_user: "确认屏蔽该用户吗？"
+    banned: 被屏蔽
+    banned_user: "被屏蔽用户"
+    cancel: 取消
+    dont_like_username: "踩用户名"
+    flaggedaccounts: "举报该用户名"
+    flags: 标记
+    impersonating: "冒充"
+    loading: "正在加载"
+    moderator: 版主
+    newsroom_role: "新闻编辑室身份"
+    no_flagged_accounts: "举报用户名列表为空"
+    no_results: "没有发现使用该用户名或邮箱的用户。他们藏起来了！"
+    offensive: "违规"
+    other: 其他
+    people: 联系人
+    role: "选择身份..."
     select_status: "选择状态..."
-    spam_ads: "Spam/Ads"
-    staff: "职员"
-    status: Status
-    username_and_email: "用户名和邮箱"
-    yes_ban_user: "Yes Ban User"
-    none: "None"
+    spam_ads: "垃圾邮件/广告"
+    staff: "管理员"
+    status: 状态
+    username_and_email: "用户名和邮箱地址"
+    yes_ban_user: "同意屏蔽该用户"
+    none: "无"
   configure:
-    apply: Apply
-    banned_word_text: "Comments which contain these words or phrases (not case-sensitive) will be automatically removed from the comment stream. Type a word and press Enter or Tab to add. Optionally paste a comma-separated list."
-    banned_words_title: "禁用词列表"
+    apply: 应用
+    banned_word_text: "包含以下单词或短语（不区分大小写）的评论将自动从评论流移除。 输入一个单词，然后按Enter或Tab键添加，可根据需要粘贴逗号分隔的列表。"
+    banned_words_title: "屏蔽词列表"
     close: "关闭"
-    close_after: "Close comments after"
+    close_after: "稍后关闭评论"
     close_stream: "关闭评论"
-    close_stream_configuration: "This comment stream is currently closed. By opening this comment stream new comments may be submitted and displayed"
-    closed_comments_desc: "Write a message to be displayed when when your comment stream is closed and no longer accepting comments."
-    closed_comments_label: "Write a message..."
-    closed_stream_settings: "Closed Stream Message"
-    comment_count_error: "Please enter a valid number."
-    comment_count_header: "Limit Comment Length"
+    close_stream_configuration: "评论流现已关闭。打开评论可提交并显示新的评论。"
+    closed_comments_desc: "当您的评论流关闭时，留言仍会显示在评论流，但是其他人将无法评论"
+    closed_comments_label: "留言"
+    closed_stream_settings: "关闭私信"
+    comment_count_error: "请输入一个有效数字"
+    comment_count_header: "评论长度限制"
     comment_count_text_post: characters
-    comment_count_text_pre: "Comments will be limited to"
-    comment_settings: Settings
-    comment_stream: "Comment Stream"
-    comment_stream_will_close: "该评论将关闭"
-    community: Community
-    configure: "设置"
-    copy_and_paste: "Copy and paste code below into your CMS to embed your comment box in your articles"
-    custom_css_url: "Custom CSS URL"
-    custom_css_url_desc: "URL of a CSS stylesheet that will override default Embed Stream styles. Can be internal or external."
-    days: Days
-    description: "作为管理员，你可以改变该文章的评论设置："
-    domain_list_text: "Enter the domains you would like to permit for Talk e.g. your local staging and production environments (ex. localhost:3000 staging.domain.com domain.com)."
-    domain_list_title: "Permitted Domains"
-    edit_comment_timeframe_heading: "Edit Comment Timeframe"
-    edit_comment_timeframe_text_pre: "Commenters will have"
-    edit_comment_timeframe_text_post: "seconds to edit their comments."
-    embed_comment_stream: "Embed Stream"
-    enable_premod_links_text: "Moderators must approve any comment containing a link before it is published."
-    enable_pre_moderation: "Enable pre-moderation"
-    enable_pre_moderation_text: "Moderators must approve any comment before it is published."
-    enable_premod_links: "Pre-Moderate Comments Containing Links"
-    enable_premod: "Enable Premoderation"
-    enable_premod_description: "Moderators must approve any comment before it is published."
-    enable_premod_links_description: "Moderators must approve any comment containing a link before it is published."
-    enable_questionbox: "Ask Readers a Question"
-    enable_questionbox_description: "This question will appear at the top of this comment stream. Ask readers about a certain issue in the article or pose discussion questions etc."
-    hours: Hours
-    include_comment_stream: "Include Comment Stream Description for Readers"
-    include_comment_stream_desc: "Write a message to be added to the top of your comment stream. Pose a topic include community guidelines etc."
-    include_text: "Include your text here."
-    include_question_here: "Write your question here:"
-    moderate: Moderate
-    moderation_settings: "Moderation Settings"
-    open: "Open"
-    open_stream: "Open Stream"
-    open_stream_configuration: "评论现在开启。如果关闭评论将禁止新评论发布同时隐藏之前所有评论。"
-    require_email_verification: "Require Email Verification"
-    require_email_verification_text: "New Users must verify their email before commenting"
-    save_changes: "Save Changes"
-    shortcuts: Shortcuts
-    sign_out: "Sign Out"
-    stories: Stories
-    stream_settings: "Stream Settings"
-    suspect_word_title: "Suspect words list"
-    suspect_word_text: "Comments which contain these words or phrases (not case-sensitive) will be highlighted in the comment stream. Type a word and press Enter or Tab to add. Optionally paste a comma-separated list."
-    tech_settings: "Tech Settings"
-    title: "设置评论系统"
-    weeks: Weeks
-    wordlist: "Banned Words"
-  continue: "Continue"
+    comment_count_text_pre: "评论将被限制在"
+    comment_settings: 设置
+    comment_stream: "评论流"
+    comment_stream_will_close: "关闭评论"
+    community: 社区
+    configure: 配置
+    copy_and_paste: "将以下代码复制并粘贴到您的CMS中，可以将您的评论框加入到文章中"
+    custom_css_url: "自定义CSS网址"
+    custom_css_url_desc: "CSS风格的网址将覆盖默认的评论流风格，包括内部和外部"
+    days: 日
+    description: "您作为管理员有权限自定义此故事评论流的设置："
+    domain_list_text: "输入您允许Talk使用的域名，例如您的本地环境，模拟环境和生产环境（例如localhost：3000，staging.domain.com，domain.com）。"
+    domain_list_title: "允许的域名"
+    edit_comment_timeframe_heading: "编辑评论时间范围"
+    edit_comment_timeframe_text_pre: "评论员将享受"
+    edit_comment_timeframe_text_post: "几秒钟编辑评论"
+    embed_comment_stream: "加入评论流"
+    enable_premod_links_text: "任何包含链接的评论必须经过版主审核后才能发布"
+    enable_pre_moderation: "启用预审"
+    enable_pre_moderation_text: "任何评论必须经过版主审核后才能发布"
+    enable_premod_links: "预审包含链接的评论"
+    enable_premod: "启用预审"
+    enable_premod_description: "任何评论必须经过版主审核后才能发布"
+    enable_premod_links_description: "任何包含链接的评论必须经过版主审核后才能发布"
+    enable_questionbox: "向读者提问"
+    enable_questionbox_description: "该问题将会在评论流置顶。您可以询问其他读者有关文章中的具体时间或是提出讨论等"
+    hours: 小时
+    include_comment_stream: "包含读者的评论流描述"
+    include_comment_stream_desc: "留言将在您的评论流中置顶。发布一个社区规则等"
+    include_text: "在此插入您的文本"
+    include_question_here: "请在此处输入问题"
+    moderate: 审核
+    moderation_settings: "审核设置"
+    open: "开启"
+    open_stream: "打开评论流"
+    open_stream_configuration: "评论流现已打开。评论流关闭后其他用户将无法提交新的评论，但旧评论仍将显示在评论流中"
+    require_email_verification: "需要验证邮箱"
+    require_email_verification_text: "新用户必须验证邮箱后才能评论"
+    save_changes: "保存更改"
+    shortcuts: 快捷键
+    sign_out: "注销"
+    stories: 故事
+    stream_settings: "评论流设定"
+    suspect_word_title: "敏感词列表"
+    suspect_word_text: "包含以下单词或短语（不区分大小写）的评论将自动从评论流移除。 输入一个单词，然后按Enter或Tab键添加，可根据需要粘贴逗号分隔的列表。"
+    tech_settings: "技术设置"
+    title: "评论流设置"
+    weeks: 周
+    wordlist: "屏蔽词语"
+  continue: "继续"
   createdisplay:
-    check_the_form: "Invalid Form. Please check the fields"
-    continue: "Continue with the same Facebook username"
-    error_create: "Error when changing username"
-    fake_comment_body: "This is an example comment. Readers can share their thoughts and opinions with newsrooms in the comments section."
-    fake_comment_date: "1 minute ago"
-    if_you_dont_change_your_name: "If you don't change your username at this step your Facebook display name will appear alongside of all your comments."
-    required_field: "Required field"
-    save: Save
-    special_characters: "Usernames can contain letters numbers and _ only"
-    username: Username
-    write_your_username: "Edit your username"
-    your_username: "Your username appears on every comment you post."
-  done: Done
+    check_the_form: "表单无效，请重新检查字段"
+    continue: "使用相同的facebook用户名"
+    error_create: "更改用户名时出现错误"
+    fake_comment_body: "这是一个评论示例。 读者可以在新闻工作室的评论区分享想法和意见。"
+    fake_comment_date: "1分钟前"
+    if_you_dont_change_your_name: "如果您当前没有更改您的用户名，您的Facebook将在您的所有评论旁边显示该用户名。"
+    required_field: "必填选项"
+    save: 保存
+    special_characters: "用户名只能包含字母、数字和_"
+    username: 用户名
+    write_your_username: "编辑您的用户名"
+    your_username: "您的每条评论均会显示您的用户名。"
+  done: 完成
   edit_comment:
-    body_input_label: "Edit this comment"
-    save_button: "Save changes"
-    edit_window_expired: "You can no longer edit this comment. The time window to do so has expired. Why not post another one?"
-    edit_window_expired_close: "Close"
-    edit_window_timer_prefix: "Edit Window: "
-    second: "second"
-    seconds_plural: "seconds"
-    minute: "minute"
-    minutes_plural: "minutes"
+    body_input_label: "编辑评论"
+    save_button: "保存更改"
+    edit_window_expired: "您无法编辑该评论，页面已过期。为什么不发表另一条评论呢？"
+    edit_window_expired_close: "关闭"
+    edit_window_timer_prefix: "编辑窗口 "
+    second: "秒"
+    seconds_plural: "秒"
+    minute: "分钟"
+    minutes_plural: "分钟"
   email:
+    suspended:
+      subject: "您的账户已被暂停使用"
+    banned:
+      subject: "您的账户已被注销"
+      body: "根据Coral项目使用准则, 您的账户已被禁用。您已不再可以评论, 标记或是参与社区活动。"
     confirm:
-      has_been_requested: "A email confirmation has been requested for the following account:"
-      to_confirm: "To confirm the account, please visit the following link:"
-      confirm_email: "Confirm Email"
-      if_you_did_not: "If you did not request this, you can safely ignore this email."
-      subject: "Email Confirmation"
+      has_been_requested: "请求确认以下账户的邮箱"
+      to_confirm: "为确认该账户，请点击下方链接"
+      confirm_email: "确认邮箱"
+      if_you_did_not: "如果您并未发送该请求，请忽略此邮件"
+      subject: "邮件确认"
     password_reset:
-      we_received_a_request: "We received a request to reset your password. If you did not request this change, you can ignore this email."
-      if_you_did: "If you did,"
-      please_click: "please click here to reset password"
+      we_received_a_request: "我们收到了重置密码的请求。如果您并未请求更改，请忽略该邮件。"
+      if_you_did: "如果您执行该操作"
+      please_click: "请点击此处重置密码"
   embedlink:
-    copy: "Copy to Clipboard"
+    copy: "复制到剪贴板"
   error:
-    COMMENT_TOO_SHORT: "Comments should be more than one character, please revise your comment and try again."
-    NOT_AUTHORIZED: "You are not authorized to perform this action."
-    NO_SPECIAL_CHARACTERS: "Usernames can contain letters numbers and _ only"
-    PASSWORD_LENGTH: "Password is too short"
-    PROFANITY_ERROR: "Usernames must not contain profanity. Please contact the administrator if you believe this to be in error."
-    RATE_LIMIT_EXCEEDED: "Rate limit exceeded"
-    USERNAME_IN_USE: "Username already in use"
-    USERNAME_REQUIRED: "Must input a username"
-    EMAIL_NOT_VERIFIED: "E-mail address not verified"
-    EDIT_WINDOW_ENDED: "You can no longer edit this comment. The time window to do so has expired."
-    EDIT_USERNAME_NOT_AUTHORIZED: "You do not have permission to update your username."
-    SAME_USERNAME_PROVIDED: "You must submit a different username."
-    EMAIL_IN_USE: "Email address already in use"
-    EMAIL_REQUIRED: "An email address is required"
-    LOGIN_MAXIMUM_EXCEEDED: "You have made too many unsuccessful password attempts. Please wait."
-    PASSWORD_REQUIRED: "Must input a password"
-    COMMENTING_CLOSED: "Commenting is already closed"
-    NOT_FOUND: "Resource not found"
-    ALREADY_EXISTS: "Resource already exists"
-    INVALID_ASSET_URL: "Assert URL is invalid"
-    CANNOT_IGNORE_STAFF: "Cannot ignore Staff members."
-    email: "Not a valid E-Mail"
-    confirm_password: "Passwords don't match. Please check again"
-    network_error: "Failed to connect to server. Check your internet connection and try again."
-    email_not_verified: "E-mail address {0} not verified."
-    email_password: "E-mail and/or password combination incorrect."
-    organization_name: "Organization name must only contain letters or numbers."
-    password: "Password must be at least 8 characters"
-    username: "Usernames can contain letters numbers and _ only"
-    unexpected: "Unexpected error occurred. Sorry!"
-  flag_comment: "Report comment"
-  flag_reason: "Reason for reporting (Optional)"
-  flag_username: "Report username"
+    COMMENT_TOO_SHORT: "评论必须超过一个字符，请您修改后重试"
+    NOT_AUTHORIZED: "您无权执行该操作"
+    NO_SPECIAL_CHARACTERS: "用户名只能包含字母、数字和_"
+    PASSWORD_LENGTH: "密码未达到规定长度"
+    PROFANITY_ERROR: "用户名不得包含侮辱性词汇。如果您对此有疑问，请联系管理员。"
+    RATE_LIMIT_EXCEEDED: "评论数超过上限"
+    USERNAME_IN_USE: "该用户名已被占用"
+    USERNAME_REQUIRED: "必须输入用户名"
+    EMAIL_NOT_VERIFIED: "邮箱地址未验证"
+    EDIT_WINDOW_ENDED: "您无法编辑该评论，页面已过期"
+    EDIT_USERNAME_NOT_AUTHORIZED: "您无权更新您的用户名"
+    SAME_USERNAME_PROVIDED: "您必须提交未使用过的用户名"
+    EMAIL_IN_USE: "电子邮件地址已被占用"
+    EMAIL_REQUIRED: "需要输入电子邮件地址"
+    LOGIN_MAXIMUM_EXCEEDED: "您输入了太多次不正确的密码。请稍候。"
+    PASSWORD_REQUIRED: "必须输入密码"
+    COMMENTING_CLOSED: "评论已关闭"
+    NOT_FOUND: "未找到资源"
+    ALREADY_EXISTS: "资源已存在"
+    INVALID_ASSET_URL: "网址无效"
+    CANNOT_IGNORE_STAFF: "不能屏蔽员工。"
+    email: "电子邮件地址无效"
+    confirm_password: "密码不匹配。请再检查一次"
+    network_error: "无法连接服务器。请检查您的互联网连接，然后重试。"
+    email_not_verified: "电子邮件地址{0}未经验证。"
+    email_password: "电子邮件和/或密码的组合不正确。"
+    organization_name: "组织的名称只能包含字母或数字。"
+    password: "密码必须至少8个字符"
+    username: "用户名只能包含字母、数字和_"
+    unexpected: "发生了意外的错误。抱歉!"
+  flag_comment: "举报评论"
+  flag_reason: "举报原因（可选）"
+  flag_username: "举报用户名"
   framework:
-    banned_account_header: "Your account is currently banned."
-    banned_account_body: "This means that you cannot Like, Report, or write comments."
-    comment: comment
-    comment_is_ignored: "This comment is hidden because you ignored this user."
-    comment_is_rejected: "You have rejected this comment."
-    comment_is_hidden: "This comment is not available."
-    comments: comments
-    configure_stream: "设置"
-    content_not_available: "This content is not available"
+    banned_account_header: "您的帐户目前已被禁用。"
+    banned_account_body: "这意味着您不能点赞，举报或评论。"
+    comment: 评论
+    comment_is_ignored: "由于您屏蔽了该用户，这个评论被隐藏。"
+    comment_is_rejected: "你已拒绝了该评论。"
+    comment_is_hidden: "此评论无效。"
+    comments: 评论
+    configure_stream: "配置"
+    content_not_available: "此内容不可用"
     edit_name:
-      button: Submit
-      error: "Usernames can contain letters numbers and _ only"
-      label: "New Username"
-      msg: "Your account is currently suspended because your username has been deemed inappropriate. To restore your account please enter a new username. Please contact us if you have any questions."
+      button: 提交
+      error: "用户名只能包含字母数字和_"
+      label: "新用户名"
+      msg: "由于您的用户名不当，您的帐号目前已被暂停使用。如要恢复您的帐户，请输入一个新的用户名。如有任何疑问，请您联系我们。"
     my_comments: "我的评论"
-    my_profile: "我的档案"
-    new_count: "View {0} more {1}"
-    profile: Profile
-    show_all_comments: "Show all comments"
-    success_bio_update: "Your biography has been updated"
-    success_name_update: "Your username has been updated"
-    success_update_settings: "The changes you have made have been applied to the comment stream on this article"
-    show_all_replies: Show all replies
-    show_more_replies: Show more replies
-    view_more_comments: "view more comments"
-    view_reply: "view reply"
-  from_settings_page: "From the Profile Page you can see your comment history."
-  like: Like
-  loading_results: "Loading Results"
-  marketing: "This looks like an ad/marketing"
-  moderate_this_stream: "审查该文章评论"
+    my_profile: "我的概况"
+    new_count: "查看{0}更多{1}"
+    profile: 概况
+    show_all_comments: "显示全部评论"
+    success_bio_update: "你的个人简介已更新"
+    success_name_update: "您的用户名已更新"
+    success_update_settings: "您的更改已被应用于本文的评论流"
+    show_all_replies: 显示全部回复
+    show_more_replies: 显示更多回复
+    view_more_comments: "查看更多评论"
+    view_reply: "查看回复"
+  from_settings_page: "您可以在概况页面看到您的评论历史记录。"
+  like: 赞
+  loading_results: "加载结果"
+  marketing: "这看起来像是广告/营销"
+  moderate_this_stream: "审核这个流"
   modqueue:
-    account: "account flags"
-    actions: Actions
-    all: all
-    all_streams: "All Streams"
-    notify_edited: '{0} edited comment "{1}"'
-    notify_accepted: '{0} accepted comment "{1}"'
-    notify_rejected: '{0} rejected comment "{1}"'
-    notify_flagged: '{0} flagged comment "{1}"'
-    notify_reset: '{0} reset status of comment "{1}"'
-    approve: "Approve"
-    approved: "Approved"
-    ban_user: "Ban"
-    billion: B
-    close: Close
-    empty_queue: "No more comments to moderate! You're all caught up. Go have some ☕️"
-    flagged: flagged
-    reported: reported
-    less_detail: "Less detail"
-    likes: likes
-    million: M
-    mod_faster: "Moderate faster with keyboard shortcuts"
-    moderate: "Moderate →"
-    more_detail: "More detail"
-    new: New
-    newest_first: "Newest First"
-    navigation: Navigation
-    next_comment: "Go to the next comment"
-    toggle_search: "Open search"
-    next_queue: "Switch queues"
-    oldest_first: "Oldest First"
-    premod: pre-mod
-    prev_comment: "Go to the previous comment"
-    reject: "Reject"
-    rejected: "Rejected"
-    reply: "Reply"
-    select_stream: "Select Stream"
+    account: "帐户标记"
+    actions: 操作
+    all: 所有
+    all_streams: "所有流"
+    notify_edited: '{0}编辑了评论“{1}”'
+    notify_accepted: '{0}接受了评论“{1}”'
+    notify_rejected: '{0}拒绝了评论“{1}”'
+    notify_flagged: '{0}标记了评论“{1}”'
+    notify_reset: '{0}重置了评论“{1}”的状态'
+    approve: "批准"
+    approved: "已批准"
+    ban_user: "禁止"
+    billion: 十亿
+    close: 关
+    empty_queue: "没有更多需要审核的评论啦。您已处理完所有，来杯☕️吧！"
+    flagged: 已标记
+    reported: 已举报
+    less_detail: "收起"
+    likes: 赞
+    million: 百万
+    mod_faster: "使用键盘快捷键，加快审核速度"
+    moderate: "审核 →"
+    more_detail: "展开"
+    new: 新
+    newest_first: "最新评论优先"
+    navigation: 导航
+    next_comment: "转到下一个评论"
+    toggle_search: "打开搜索"
+    next_queue: "切换队列"
+    oldest_first: "最早评论优先"
+    premod: 预审核
+    prev_comment: "转到之前的评论"
+    reject: "拒绝"
+    rejected: "已拒绝"
+    reply: "回复"
+    select_stream: "选择流"
     shift_key: "⇧"
-    shortcuts: "Shortcuts"
-    sort: "Sort"
-    show_shortcuts: "Show Shortcuts"
-    singleview: "Toggle single comment edit view"
-    thismenu: "Open this menu"
-    jump_to_queue: "Jump to specific queue"
-    thousand: k
-    try_these: "Try these"
-    view_more_shortcuts: "View more shortcuts"
-  my_comment_history: "My comment History"
-  name: Name
-  no_agree_comment: "I don't agree with this comment"
-  no_like_bio: "I don't like this bio"
-  no_like_username: "I don't like this username"
-  other: Other
-  permalink: Link
-  personal_info: "This comment reveals personally identifiable information"
-  post:  "发布"
-  profile: Profile
-  profile_settings: "Profile Settings"
-  reply: "回复"
-  report: "举报"
-  report_notif: "Thank you for reporting this comment. Our moderation team has been notified and will review it shortly."
-  report_notif_remove: "Your report has been removed."
-  reported: "已举报"
+    shortcuts: "快捷键"
+    sort: "分类"
+    show_shortcuts: "显示快捷键"
+    singleview: "切换单个评论编辑视图"
+    thismenu: "打开这个菜单"
+    jump_to_queue: "跳转到特定队列"
+    thousand: 千
+    try_these: "试试这些"
+    view_more_shortcuts: "查看更多快捷方式"
+  my_comment_history: "我的评论历史"
+  name: 名称
+  no_agree_comment: "我不同意这个评论"
+  no_like_bio: "我不喜欢这个个人简介"
+  no_like_username: "我不喜欢这个用户名"
+  other: 其他
+  permalink: Share
+  personal_info: "这个评论泄露了个人身份信息"
+  post: 帖子
+  profile: 概况
+  profile_settings: "概况设置"
+  reply: 回复
+  report: 举报
+  report_notif: "感谢您举报此评论。我们的审核小组已经收到通知，并会很快给予审查。"
+  report_notif_remove: "您的举报已删除。"
+  reported: 已举报
   settings:
-    from_settings_page: "From the Profile Page you can see your comment history."
-    my_comment_history: "My comment History"
-    profile: Profile
-    profile_settings: "Profile Settings"
-    sign_in: "登录"
-    to_access: "to access Profile"
-    user_no_comment: "你还没有评论过。现在就加入讨论吧！"
+    from_settings_page: "您可以在概况页面看到您的评论历史记录。"
+    my_comment_history: "我的评论历史"
+    profile: 概况
+    profile_settings: "概况设置"
+    sign_in: "登陆"
+    to_access: "访问概况"
+    user_no_comment: "您尚未评论。加入对话吧！"
   stream:
-    all_comments: "所有评论"
-    temporarily_suspended: "In accordance with {0}'s community guidelines, your account has been temporarily suspended. Please rejoin the conversation {1}."
-    comment_not_found: "Comment was not found"
-    no_comments: "暂时没有评论，请添加您的见解。"
-    no_comments_and_closed: "There were no comments on this article."
-  step_1_header: "Report an issue"
-  step_2_header: "Help us understand"
-  step_3_header: "Thank you for your input"
+    all_comments: "全部评论"
+    temporarily_suspended: "根据{0}的社区准则，您的帐户已被暂停。请重新加入对话{1}。"
+    comment_not_found: "未发现评论"
+    no_comments: "暂时还没有评论，何不写条评论呢？"
+    no_comments_and_closed: "这篇文章没有评论。"
+  step_1_header: "举报问题"
+  step_2_header: "帮助我们理解"
+  step_3_header: "谢谢您的参与"
   streams:
-    all: All
-    article: Story
-    closed: Closed
-    empty_result: "No assets match this search. Maybe try widening your search?"
-    filter_streams: "Filter Streams"
-    newest: Newest
-    oldest: Oldest
-    open: Open
-    pubdate: "Publication Date"
-    search: Search
-    sort_by: "Sort By"
-    status: "Stream Status"
-    stream_status: "Stream Status"
+    all: 全部
+    article: 故事
+    closed: 已关闭
+    empty_result: "没有资产符合该搜索。试试扩大您的搜索？"
+    filter_streams: "过滤流"
+    newest: 最新
+    oldest: 最早
+    open: 打开
+    pubdate: "发布日期"
+    search: 搜索
+    sort_by: "排序方式"
+    status: "流状态"
+    stream_status: "流状态"
   suspenduser:
-    title_suspend: "Suspend User"
-    description_suspend: "You are suspending {0}. This comment will go to the Rejected queue, and {0} will not be allowed to like, report, reply or post until the suspension time is complete."
-    select_duration: "Select suspension duration"
+    title_suspend: "暂停用户"
+    description_suspend: "您正在暂停{0}。此评论将进入拒绝队列。直到暂停时间结束，{0}该评论才将允许被点赞，举报，回复或发布。"
+    select_duration: "选择暂停期限"
     one_hour: "1 hour"
     hours: "{0} hours"
     days: "{0} days"
     cancel: "Cancel"
-    suspend_user: "Suspend User"
-    email_message_suspend: "Dear {0},\n\nIn accordance with {1}’s community guidelines, your account has been temporarily suspended. During the suspension, you will be unable to comment, flag or engage with fellow commenters. Please rejoin the conversation {2}."
-    title_notify: "Notify the user of their temporary suspension"
-    notify_suspend_until: "User {0} has been temporarily suspended. This suspension will automatically end {1}."
-    description_notify: "Suspending this user will temporarily disable their account."
-    write_message: "Write a message"
-    send: Send
+    suspend_user: "暂停用户"
+    email_message_suspend: "亲爱的{0},\n\n根据{1}的社区准则，您的账户被暂停使用。在禁用期间, 您不能够评论，标记或是与其他用户互动。请在{2}重新加入对话。"
+    title_notify: "通知用户他们的账户暂时中止"
+    notify_suspend_until: "用户{0}已暂时中止。该暂停将自动结束{1}。"
+    description_notify: "暂停此用户，其帐户将被暂时禁用。"
+    write_message: "写信息"
+    send: 发送
   reject_username:
-    username: username
-    no_cancel: "No cancel"
-    description_reject: "Would you like to temporarily ban this user because of their {0}? Doing so will temporarily suspend this user until they rewrite their {0}."
-    title_notify: "Notify the user of their temporary suspension"
-    description_notify: "Suspending this user will temporarily disable their account."
-    title_reject: "We noticed you rejected a username"
-    suspend_user: "Suspend User"
-    yes_suspend: "Yes suspend"
-    email_message_reject: "Another member of the community recently flagged your username for review. Because of its content your user was rejected. This means you can no longer comment, like, or flag content until you rewrite your username. Please e-mail us if you have any questions or concerns."
-    write_message: "Write a message"
-    send: Send
-  thank_you: "We value your safety and feedback. A moderator will review your report."
+    username: 用户名
+    no_cancel: "不取消"
+    description_reject: "你想由于他们的{0}暂时禁止此用户吗？这样做会暂时中止这个用户，直到他们重写{0}。"
+    title_notify: "通知用户他们的账户暂时中止"
+    description_notify: "暂停此用户，其帐户将被暂时禁用。"
+    title_reject: "我们注意到您拒绝了一个用户名"
+    suspend_user: "暂停用户"
+    yes_suspend: "是，暂停"
+    email_message_reject: "另一位社区成员最近标记了您的用户名以供审核。由于您的用户名内容，您的用户名被拒绝了。这意味着除非您重新输入用户名，您将不能再评论，点赞或标记内容。如果您有任何疑问或顾虑，请发邮件给我们。"
+    write_message: "写信息"
+    send: 发送
+  thank_you: "我们重视您的安全和您的反馈。一位审核员将审阅您的举报。"
   user:
-    bio_flags: "flags for this bio"
-    user_bio: "User Bio"
-    username_flags: "flags for this username"
-  user_impersonating: "This user is impersonating"
-  user_no_comment: "您还没有留下评论，发表您的见解吧！"
-  username_offensive: "This username is offensive"
-  view_conversation: "检视会话"
+    bio_flags: "该简介的标记"
+    user_bio: "用户简介"
+    username_flags: "该用户名的标记"
+  user_impersonating: "此用户正在仿冒"
+  user_no_comment: "您尚未评论过。加入对话吧！"
+  username_offensive: "这个用户名有冒犯性"
+  view_conversation: "查看对话"
   install:
     initial:
-      description: "Let's set up your Talk community in just a few short steps."
-      submit: "Get Started"
+      description: "让我们通过几个简单的步骤设置您的Talk社区。"
+      submit: "开始使用"
     add_organization:
-      description: "Please tell us the name of your organization. This will appear in emails when inviting new team members."
-      label: "Organization Name"
-      save: "Save"
+      description: "请告诉我们您的组织名称。在邀请新团队成员时，这一信息将在邮件中出现。"
+      label: "机构名称"
+      save: "保存"
     create:
-      email: "Email address"
-      username: "Username"
-      password: "Password"
-      confirm_password: "Confirm Password"
-      save: "Save"
+      email: "电子邮件地址"
+      username: "用户名"
+      password: "密码"
+      confirm_password: "确认密码"
+      save: "保存"
     permitted_domains:
-      title: "Permitted domains"
-      description: "Enter the domains you would like to permit for Talk, e.g. your local, staging and production environments (ex. localhost:3000, staging.domain.com, domain.com)."
-      submit: "Finish install"
+      title: "允许的域名"
+      description: "输入您允许Talk使用的域名，例如您的本地环境，模拟环境和生产环境（例如localhost：3000，staging.domain.com，domain.com）。"
+      submit: "完成安装"
     final:
-      description: "Thanks for installing Talk! We sent an email to verify your email address. While you finish setting up the account, you can start engaging with your readers now."
-      launch: "Launch Talk"
-      close: "Close this Installer"
+      description: "感谢安装Talk！我们给您发送了一封邮件以验证您的电子邮件地址。在完成帐户设置后，您即可开始与您的读者互动。"
+      launch: "启动Talk"
+      close: "关闭安装程序"
